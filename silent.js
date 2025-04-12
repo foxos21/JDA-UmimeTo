@@ -471,6 +471,7 @@ function simulateProgressiveSolving() {
     runSimulation();
 }
 
+alert("Loaded!");
 // Usage:
 simulateProgressiveSolving();
 
